@@ -71,7 +71,7 @@ dfp2=dfpp[['ROC']]
 
 ##s=dfp.columns.get_loc('vwap')
 ##i=dfp.columns.get_loc('close')
-print('trash 5')
+print('trash 6')
 def buildmebarchart(i=int):
     import matplotlib.animation as animation
     import numpy as np
